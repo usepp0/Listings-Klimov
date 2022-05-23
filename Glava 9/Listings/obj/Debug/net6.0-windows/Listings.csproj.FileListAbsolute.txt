@@ -1,0 +1,35 @@
+C:\Users\imgol\source\repos\Listings\Listings\bin\Debug\net6.0-windows\Listings.exe
+C:\Users\imgol\source\repos\Listings\Listings\bin\Debug\net6.0-windows\Listings.deps.json
+C:\Users\imgol\source\repos\Listings\Listings\bin\Debug\net6.0-windows\Listings.runtimeconfig.json
+C:\Users\imgol\source\repos\Listings\Listings\bin\Debug\net6.0-windows\Listings.dll
+C:\Users\imgol\source\repos\Listings\Listings\bin\Debug\net6.0-windows\Listings.pdb
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.csproj.AssemblyReference.cache
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.Form1.resources
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.csproj.GenerateResource.cache
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.AssemblyInfoInputs.cache
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.AssemblyInfo.cs
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.csproj.CoreCompileInputs.cache
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.dll
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\refint\Listings.dll
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.pdb
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\Listings.genruntimeconfig.cache
+C:\Users\imgol\source\repos\Listings\Listings\obj\Debug\net6.0-windows\ref\Listings.dll
+C:\Users\imgol\source\repos\Glava 9\Listings\bin\Debug\net6.0-windows\Listings.exe
+C:\Users\imgol\source\repos\Glava 9\Listings\bin\Debug\net6.0-windows\Listings.deps.json
+C:\Users\imgol\source\repos\Glava 9\Listings\bin\Debug\net6.0-windows\Listings.runtimeconfig.json
+C:\Users\imgol\source\repos\Glava 9\Listings\bin\Debug\net6.0-windows\Listings.dll
+C:\Users\imgol\source\repos\Glava 9\Listings\bin\Debug\net6.0-windows\Listings.pdb
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.csproj.AssemblyReference.cache
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.Form1.resources
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.Properties.Resources.resources
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.csproj.GenerateResource.cache
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.AssemblyInfoInputs.cache
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.AssemblyInfo.cs
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.csproj.CoreCompileInputs.cache
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.dll
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\refint\Listings.dll
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.pdb
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\Listings.genruntimeconfig.cache
+C:\Users\imgol\source\repos\Glava 9\Listings\obj\Debug\net6.0-windows\ref\Listings.dll
