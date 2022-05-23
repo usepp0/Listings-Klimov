@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glava3", "Glava3\Glava3.csproj", "{CC69BB7C-B638-4DFD-A996-8162EFD4229F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC69BB7C-B638-4DFD-A996-8162EFD4229F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC69BB7C-B638-4DFD-A996-8162EFD4229F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC69BB7C-B638-4DFD-A996-8162EFD4229F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC69BB7C-B638-4DFD-A996-8162EFD4229F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C754077-308C-442A-A813-22CBF0BDD3D0}
+	EndGlobalSection
+EndGlobal
